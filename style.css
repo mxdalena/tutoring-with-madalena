@@ -28,6 +28,17 @@ header {
     text-align: center;
 }
 
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 section {
     background-color: #F5FFF6;
     color: #464A46;
