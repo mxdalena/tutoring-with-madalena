@@ -1,6 +1,6 @@
 html {
     font-family: Merriweather;
-    font-size: 11px;
+    font-size: 16px;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    font-size: 40px;
+    font-size: 35px;
     background-color: #9EDB88;
     color: #ffffff;
     padding: 20px;
@@ -23,7 +23,7 @@ section {
 }
 
 footer {
-    font-size: 7px;
+    font-size: 11px;
     text-align: center;
     padding: 10px;
     background-color: #9EDB88;
