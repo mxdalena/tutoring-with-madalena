@@ -37,10 +37,12 @@ header {
     width: 33.33%;
 }
 
-.row {
-    content: "";
-    display: table;
-    clear: both;
+.left {
+  width: 20%;
+}
+
+.middle, .right {
+  width: 40%;
 }
 
 section {
