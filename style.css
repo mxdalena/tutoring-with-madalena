@@ -4,15 +4,15 @@ html {
 }
 
 h1 {
-  font-size: 4rem; /* 2.5 * 16 = 40px */
+  font-size: 5rem; 
 }
 
 h2 {
-  font-size: 3rem; /* 1.875 * 16 = 30px */
+  font-size: 3rem; 
 }
 
 p {
-  font-size: 2rem; /* 1 * 16 = 16px */
+  font-size: 2rem; 
 }
 
 body {
