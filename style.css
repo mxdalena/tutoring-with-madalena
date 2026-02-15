@@ -68,6 +68,11 @@ footer {
     color: #ffffff;
 }
 
+.container {
+    position: relative;
+    width: auto;
+}
+
 .overlay {
   position: absolute;
   top: 0;
