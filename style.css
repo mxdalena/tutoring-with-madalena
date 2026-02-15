@@ -5,6 +5,7 @@ html {
 
 div {
     word-wrap: break-word;
+    margin: 5px;
 }
 
 p {
