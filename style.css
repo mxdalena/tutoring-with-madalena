@@ -39,6 +39,7 @@ header {
 .column {    
     width: 30%;
     display: inline-block;
+    column-gap: 3%;
 }
 
 section {
