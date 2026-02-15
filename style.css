@@ -1,18 +1,18 @@
 html {
     font-family: Merriweather;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 h1 {
-  font-size: 5rem; 
-}
-
-h2 {
   font-size: 3rem; 
 }
 
-p {
+h2 {
   font-size: 2rem; 
+}
+
+p {
+  font-size: 1rem; 
 }
 
 body {
