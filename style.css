@@ -34,7 +34,7 @@ header {
 
 .grid {
     display: grid;
-    grid-column-gap: 10ptx;
+    grid-column-gap: 15ptx;
     grid-template-columns: repeat(3, 1fr);
 }
 
