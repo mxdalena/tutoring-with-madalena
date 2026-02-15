@@ -1,6 +1,6 @@
 body {
     font-family: Merriweather;
-    font-size: 16px;
+    font-size: 11px;
     margin: 0;
     padding: 0;
 }
@@ -16,6 +16,7 @@ header {
 
 section {
     font-family: Merriweather;
+    font-size: 11px;
     background-color: #F5FFF6;
     margin: 10px;
     padding: 10px;
@@ -23,6 +24,7 @@ section {
 
 footer {
     font-family: Merriweather;
+    font-size: 7px;
     text-align: center;
     padding: 10px;
     background-color: #9EDB88;
