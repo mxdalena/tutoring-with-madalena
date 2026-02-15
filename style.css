@@ -18,11 +18,11 @@ p {
 body {
     margin: 0;
     padding: 0;
-    color: #ABABAB;
+    color: #464A46;
 }
 
 header {
-    background-color: #9EDB88;
+    background-color: #1F5C1E;
     color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -30,7 +30,7 @@ header {
 
 section {
     background-color: #F5FFF6;
-    color: #ABABAB;
+    color: #464A46;
     margin: 10px;
     padding: 10px;
 }
@@ -38,6 +38,6 @@ section {
 footer {
     text-align: center;
     padding: 12px;
-    background-color: #9EDB88;
+    background-color: #1F5C1E;
     color: #ffffff;
 }
