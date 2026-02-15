@@ -34,12 +34,12 @@ header {
 
 .row {
     display: inline-block;
+    row-column-gap: 3%;
 }
 
 .column {    
     width: 30%;
     display: inline-block;
-    column-gap: 3%;
 }
 
 section {
