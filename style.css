@@ -24,7 +24,7 @@ body {
 header {
     background-color: #093B09;
     color: #ffffff;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -37,7 +37,7 @@ section {
 
 footer {
     text-align: center;
-    padding: 12px;
+    padding: 10px;
     background-color: #093B09;
     color: #ffffff;
 }
