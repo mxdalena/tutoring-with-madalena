@@ -1,12 +1,14 @@
-body {
+html {
     font-family: Merriweather;
     font-size: 11px;
+}
+
+body {
     margin: 0;
     padding: 0;
 }
 
 header {
-    font-family: Merriweather;
     font-size: 40px;
     background-color: #9EDB88;
     color: #ffffff;
@@ -15,15 +17,12 @@ header {
 }
 
 section {
-    font-family: Merriweather;
-    font-size: 11px;
     background-color: #F5FFF6;
     margin: 10px;
     padding: 10px;
 }
 
 footer {
-    font-family: Merriweather;
     font-size: 7px;
     text-align: center;
     padding: 10px;
