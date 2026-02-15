@@ -3,6 +3,10 @@ html {
     font-size: 12px;
 }
 
+p {
+    word-wrap: break-word;
+}
+
 h1 {
   font-size: 3rem; 
 }
