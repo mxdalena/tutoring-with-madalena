@@ -1,12 +1,12 @@
 body {
-    font-family: Merriweather, sans-serif;
+    font-family: Merriweather;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
 
 header {
-    font-family: Merriweather, sans-serif;
+    font-family: Merriweather;
     font-size: 40px;
     background-color: #9EDB88;
     color: #ffffff;
@@ -15,14 +15,14 @@ header {
 }
 
 section {
-    font-family: Merriweather, sans-serif;
+    font-family: Merriweather;
     background-color: #F5FFF6;
     margin: 10px;
     padding: 10px;
 }
 
 footer {
-    font-family: Merriweather, sans-serif;
+    font-family: Merriweather;
     text-align: center;
     padding: 10px;
     background-color: #9EDB88;
