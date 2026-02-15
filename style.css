@@ -4,12 +4,12 @@ html {
 }
 
 div {
-    word-wrap: break-word;
+    word-wrap: break-word: pretty;
     margin: 10px;
 }
 
 p {
-    word-wrap: break-word;
+    word-wrap: break-word: pretty;
     margin: 10px;
 }
 
