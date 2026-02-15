@@ -28,7 +28,7 @@ body {
 header {
     background-color: #093B09;
     color: #ffffff;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
 }
 
@@ -63,7 +63,7 @@ aside {
 
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 0;
     background-color: #093B09;
     color: #ffffff;
 }
