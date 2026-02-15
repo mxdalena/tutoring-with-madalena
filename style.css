@@ -73,6 +73,10 @@ footer {
     width: auto;
 }
 
+.container:hover {
+    opacity: 70%;
+}
+
 .overlay {
   position: relative;
   top: auto;
@@ -81,7 +85,7 @@ footer {
   right: auto;
   height: 100%;
   width: 100%;
-  opacity: .5;
+  opacity: 0;
   transition: 1s ease;
   background-color: #eef6f6;
 }
