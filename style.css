@@ -35,7 +35,7 @@ body {
 }
 
 header {
-    background-color: #093B09;
+    background-color: #29465B;
     color: #ffffff;
     padding: 15px;
     text-align: center;
@@ -63,6 +63,6 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #093B09;
+    background-color: #29465B;
     color: #ffffff;
 }
