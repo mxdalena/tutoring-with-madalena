@@ -73,7 +73,7 @@ footer {
     width: auto;
 }
 
-.container:hover {
+.container:hover .overlay{
     opacity: 70%;
 }
 
