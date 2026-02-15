@@ -34,14 +34,14 @@ header {
 
 .grid {
     display: grid;
-    grid-column-gap: 15ptx;
+    grid-column-gap: 15px;
     grid-template-columns: repeat(3, 1fr);
 }
 
 .column {    
     display: inline-block;
-    padding: 5ptx;
-    margin: 5ptx;
+    padding: 5px;
+    margin: 5px;
 }
 
 section {
