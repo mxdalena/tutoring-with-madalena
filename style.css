@@ -33,16 +33,14 @@ header {
 }
 
 .column {
-    float: left;
+    float: center;
     width: 30%;
-    text-align: center;
 }
 
 .row {
     content: "";
     display: table;
     clear: both;
-    text-align: center;
 }
 
 section {
