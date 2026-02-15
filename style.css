@@ -33,9 +33,9 @@ header {
 }
 
 .row {
-    display: -ms-flex: // Vendor prefixes required for flexbox
+    display: -ms-flex;
     display: -webkit-flex; 
-    display: flex:
+    display: flex,
 }
 .column {    
     width: 100px;
