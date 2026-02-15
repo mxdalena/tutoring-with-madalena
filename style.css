@@ -29,6 +29,7 @@ header {
     background-color: #093B09;
     color: #ffffff;
     padding: 0px;
+    height: 20px;
     text-align: center;
 }
 
@@ -55,4 +56,5 @@ footer {
     padding: 0;
     background-color: #093B09;
     color: #ffffff;
+    height: 10px;
 }
