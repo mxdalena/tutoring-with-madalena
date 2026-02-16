@@ -145,7 +145,7 @@ footer {
 
 /* Slides */
 .mySlides {
-  display: "currentSlide(1)";
+  display: random;
   padding: 100px;
   text-align: center;
     
