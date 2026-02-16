@@ -49,6 +49,9 @@ header {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+}    
 
 .grid {
     display: grid;
