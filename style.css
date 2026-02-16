@@ -106,12 +106,13 @@ footer {
     width: 150px; /* Set a specific width */
     text-decoration: none; /* Remove underline */
     font-size: 20px; /* Increase font size */
-    color: #464A46; 
+    color: none; 
     border-radius: 0 10px 10px 0; /* Rounded corners on the top right and bottom right side */
 }
 
 #mySidenav a:hover {
-  left: 0; /* On mouse-over, make the elements appear as they should */
+    left: 0; /* On mouse-over, make the elements appear as they should */
+    color: #464A46; 
 }
 
 /* The about link: 210px from the top with a green background */
