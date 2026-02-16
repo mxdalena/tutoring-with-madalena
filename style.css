@@ -112,22 +112,22 @@ footer {
 /* The about link: 20px from the top with a green background */
 #about {
   top: 200px;
-  background-color: #3C565B;
+  background-color: #B3D9D9;
 }
 
 #testimonials {
   top: 260px;
-  background-color: #3C565B; /* Blue */
+  background-color: #B3D9D9; /* Blue */
 }
 
 #cv {
   top: 320px;
-  background-color: #3C565B; /* Red */
+  background-color: #B3D9D9; /* Red */
 }
 
 #contact {
   top: 380px;
-  background-color: #3C565B /* Light Black */
+  background-color: #B3D9D9 /* Light Black */
 }
 
 
