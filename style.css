@@ -201,7 +201,7 @@ footer {
 
 /* Add a background color to the active dot/circle */
 .active, .dot:hover {
-  background-color: #deeded;
+  background-color: #3C565B;
 }
 
 /* Add an italic font style to all quotes */
