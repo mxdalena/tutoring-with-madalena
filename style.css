@@ -8,12 +8,12 @@ img {
 }
 
 div {
-    word-wrap: break-word: pretty;
+    word-wrap: normal: pretty;
     margin: 12px;
 }
 
 p {
-    word-wrap: break-word: pretty;
+    word-wrap: normal: pretty;
     margin: 12px;
 }
 
