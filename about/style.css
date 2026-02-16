@@ -102,6 +102,19 @@ footer {
     opacity: 0.7;
 }
 
+.overlayBackground {
+  position: relative;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+  background-image: "IMG_0433.JPG";
+}
+
+
 #mySidenav a {
     position: absolute; /* Position them relative to the browser window */
     z-index: 1;
