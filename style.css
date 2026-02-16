@@ -146,7 +146,7 @@ footer {
 /* Slides */
 .mySlides {
   display: ;
-  padding: 80px;
+  padding: 100px;
   text-align: center;
     
 }
@@ -159,7 +159,7 @@ footer {
   width: auto;
   margin-top: -30px;
   padding: 16px;
-  color: #888;
+  color: white;
   font-weight: bold;
   font-size: 20px;
   border-radius: 0 3px 3px 0;
@@ -182,7 +182,7 @@ footer {
 /* The dot/bullet/indicator container */
 .dot-container {
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     background: #B3D9D9;
     border-radius: 10px 10px 10px 10px;
 }
