@@ -106,7 +106,7 @@ footer {
     width: 150px; /* Set a specific width */
     text-decoration: none; /* Remove underline */
     font-size: 20px; /* Increase font size */
-    color: none; 
+    color: #B3D9D9; 
     border-radius: 0 10px 10px 0; /* Rounded corners on the top right and bottom right side */
 }
 
