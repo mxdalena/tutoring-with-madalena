@@ -102,7 +102,7 @@ footer {
     z-index: 1;
     left: -80px; /* Position them outside of the screen */
     transition: 0.5s; /* Add transition on hover */
-    padding: 20px; /* 15px padding */
+    padding: 20px; 
     width: 80px; /* Set a specific width */
     text-decoration: none; /* Remove underline */
     font-size: 20px; /* Increase font size */
@@ -114,25 +114,25 @@ footer {
   left: 0; /* On mouse-over, make the elements appear as they should */
 }
 
-/* The about link: 20px from the top with a green background */
+/* The about link: 210px from the top with a green background */
 #about {
   top: 210px;
   background-color: #B3D9D9;
 }
 
 #testimonials {
-  top: 270px;
-  background-color: #B3D9D9; /* Blue */
+  top: 280px;
+  background-color: #B3D9D9; 
 }
 
 #cv {
-  top: 330px;
-  background-color: #B3D9D9; /* Red */
+  top: 340px;
+  background-color: #B3D9D9; 
 }
 
 #contact {
-  top: 390px;
-  background-color: #B3D9D9 /* Light Black */
+  top: 400px;
+  background-color: #B3D9D9 
 }
 
 /* Slideshow container */
