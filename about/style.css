@@ -116,6 +116,7 @@ footer {
 #mySidenav a:hover {
     left: 0; /* On mouse-over, make the elements appear as they should */
     color: #464A46; 
+    background-color: #B3D9D9;
 }
 
 /* The about link: 205px from the top with a green background */
