@@ -164,7 +164,7 @@ footer {
   color: white;
   font-weight: bold;
   font-size: 20px;
-  border-radius: 3px 3px 3px 3px;
+  border-radius: 10px 10px 10px 10px;
   user-select: none;
 }
 
@@ -172,7 +172,6 @@ footer {
 .next {
   position: absolute;
   right: 0;
-  border-radius: 3px 0 0 3px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
