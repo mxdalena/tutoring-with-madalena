@@ -28,5 +28,12 @@ function showSlides(n) {
 }
 
 function takeMeThere(n) {
-  /* window.location.href = 'https://www.example.com';*/
+  /* about tutoring: */
+  /* if (n=1) {  };*/
+  /* testimonials: */
+  /* if (n=2) {  };*/
+  /* my qualifications: */
+  /* if (n=3) {  };*/
+  /* contact me: */
+  /* if (n=4) {  };*/
 }
