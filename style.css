@@ -98,15 +98,16 @@ footer {
 }
 
 #mySidenav a {
-  position: absolute front; /* Position them relative to the browser window */
-  left: -80px; /* Position them outside of the screen */
-  transition: 0.5s; /* Add transition on hover */
-  padding: 20px; /* 15px padding */
-  width: 80px; /* Set a specific width */
-  text-decoration: none; /* Remove underline */
-  font-size: 20px; /* Increase font size */
-  color: #464A46; 
-  border-radius: 0 10px 10px 0; /* Rounded corners on the top right and bottom right side */
+    position: absolute; /* Position them relative to the browser window */
+    z-index: -1;
+    left: -80px; /* Position them outside of the screen */
+    transition: 0.5s; /* Add transition on hover */
+    padding: 20px; /* 15px padding */
+    width: 80px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: #464A46; 
+    border-radius: 0 10px 10px 0; /* Rounded corners on the top right and bottom right side */
 }
 
 #mySidenav a:hover {
