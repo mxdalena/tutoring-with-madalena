@@ -158,6 +158,7 @@ footer {
   top: 50%;
   width: auto;
   margin-top: -30px;
+    margin-left:10px;
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -169,7 +170,7 @@ footer {
 /* Position the "next button" to the right */
 .next {
   position: absolute;
-  right: 0;
+  right: -10px;
   border-radius: 3px 0 0 3px;
 }
 
