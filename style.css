@@ -138,15 +138,17 @@ footer {
 
 /* Slideshow container */
 .slideshow-container {
-  position: relative;
-  background: #B3D9D9;
+    position: relative;
+    background: #B3D9D9;
+    border-radius: 10px 10px 10px 10px;
 }
 
 /* Slides */
 .mySlides {
-  /*display: none;*/
+  display: ;
   padding: 80px;
   text-align: center;
+    
 }
 
 /* Next & previous buttons */
@@ -179,9 +181,10 @@ footer {
 
 /* The dot/bullet/indicator container */
 .dot-container {
-  text-align: center;
-  padding: 20px;
-  background: #B3D9D9;
+    text-align: center;
+    padding: 20px;
+    background: #B3D9D9;
+    border-radius: 10px 10px 10px 10px;
 }
 
 /* The dots/bullets/indicators */
