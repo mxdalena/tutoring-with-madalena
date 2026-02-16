@@ -49,6 +49,10 @@ header {
     text-align: center;
 }
 
+a {
+    text-decorations: none;
+}
+
 .grid {
     display: grid;
     grid-column-gap: 15px;
