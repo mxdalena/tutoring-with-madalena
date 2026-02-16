@@ -3,6 +3,10 @@ html {
     font-size: 15px;
 }
 
+img {
+    border-radius: 0 5px 5px 0
+}
+
 div {
     word-wrap: break-word: pretty;
     margin: 12px;
