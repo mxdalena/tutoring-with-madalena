@@ -126,7 +126,7 @@ footer {
 
 /* Slideshow container */
 .slideshow-container {
-    position: relative;
+    position: top;
     background: #B3D9D9;
     border-radius: 10px 10px 10px 10px;
 }
