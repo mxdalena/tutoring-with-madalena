@@ -28,4 +28,5 @@ function showSlides(n) {
 }
 
 function takeMeThere(n) {
+  /* window.location.href = 'https://www.example.com';*/
 }
