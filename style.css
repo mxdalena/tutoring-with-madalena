@@ -103,7 +103,7 @@ footer {
     left: -80px; /* Position them outside of the screen */
     transition: 0.5s; /* Add transition on hover */
     padding: 20px; 
-    width: 150px; /* Set a specific width */
+    width: 170px; /* Set a specific width */
     text-decoration: none; /* Remove underline */
     font-size: 20px; /* Increase font size */
     color: #464A46; 
