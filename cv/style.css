@@ -125,7 +125,7 @@ footer {
 }
 
 /* Add an italic font style to all quotes */
-q {
+cite {
     font-style: italic;
     margin-left: 300px;
     margin-right: 300px;
