@@ -38,11 +38,10 @@ body {
     margin: 0;
     padding: 0;
     color: #464A46;
-    /*background-color: #3C565B;*/
+    background-color: #3C565B;
     background-image: url("IMG_0433.JPG");
     background-image-position: relative;
-    back-image-size: 100% ;
-    background-color: rgba(255, 255, 255, 0.6);
+    back-image-size: fill ;
     background-blend-mode: lighten;
 }
 
