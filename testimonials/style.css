@@ -1,1 +1,199 @@
+/* style code for 'about tutoring' subpage */
 
+html {
+    font-family: Merriweather;
+    font-size: 15px;
+}
+
+div {
+    word-wrap: normal: pretty;
+    margin: 12px;
+}
+
+p {
+    word-wrap: normal: pretty;
+    margin: 12px;
+}
+
+h1 {
+    font-size: 3rem; 
+    margin: 10px;
+}
+
+h2 {
+    font-size: 2rem; 
+    margin: 10px;
+}
+
+h3 {
+    font-size: 2rem; 
+    margin: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #464A46;
+    background-color: rgba(60, 86, 91, 1);
+    background-image: url("IMG_0433.JPG");
+    /*background-blend-mode:luminosity;*/
+    background-size: cover;
+}
+
+header {
+    background-color: #3C565B;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: none;
+}    
+
+.grid {
+    display: grid;
+    grid-column-gap: 15px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.column {    
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+}
+
+section {
+    background-color: #eef6f6;
+    color: #3C565B;
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding: 20px;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    padding: 10px;
+    background-color: #3C565B;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#mySidenav a {
+    position: absolute; /* Position them relative to the browser window */
+    z-index: 1;
+    left: -160px; /* Position them outside of the screen */
+    transition: 0.5s; /* Add transition on hover */
+    padding: 20px; 
+    width: 150px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: #B3D9D9; 
+    border-radius: 0 10px 10px 0; /* Rounded corners on the top right and bottom right side */
+}
+
+#mySidenav a:hover {
+    left: 0; /* On mouse-over, make the elements appear as they should */
+    color: #464A46; 
+    background-color: #B3D9D9;
+}
+
+/* The about link: 205px from the top with a green background */
+#home {
+  top: 205px;
+  background-color: #3C565B;
+}
+
+#testimonials {
+  top: 275px;
+  background-color: #B3D9D9; 
+}
+
+#cv {
+  top: 345px;
+  background-color: #B3D9D9; 
+}
+
+#contact {
+  top: 415px;
+  background-color: #B3D9D9 
+}
+
+/* Slideshow container */
+.slideshow-container {
+    position: relative;
+    background: #B3D9D9;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+/* Slides */
+.mySlides {
+  display: random;
+  padding: 100px;
+  text-align: center;
+    
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+    margin-left:10px;
+    margin-right:10px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 10px 10px 10px 10px;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: #3C565B;
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+.dot-container {
+    text-align: center;
+    padding: 10px;
+    background: #B3D9D9;
+    border-radius: 10px 10px 10px 10px;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+/* Add a background color to the active dot/circle */
+.active, .dot:hover {
+  background-color: #3C565B;
+}
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
