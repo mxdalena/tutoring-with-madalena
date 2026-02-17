@@ -154,6 +154,8 @@ footer {
 .mySlides {
   display: random;
   padding: 100px;
+    margin-left:150px;
+    margin-right:150px;
   text-align: center;
     
 }
