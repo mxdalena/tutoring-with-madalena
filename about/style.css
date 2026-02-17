@@ -34,9 +34,9 @@ body {
     margin: 0;
     padding: 0;
     color: #464A46;
-    background-color: rgba(60, 86, 91, 0.6);
+    background-color: rgba(60, 86, 91, 1);
     background-image: url("IMG_0433.JPG");
-    background-blend-mode:luminosity;
+    /*background-blend-mode:luminosity;*/
     background-size: cover;
 }
 
