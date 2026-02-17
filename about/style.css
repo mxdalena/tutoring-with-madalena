@@ -131,6 +131,8 @@ footer {
     position: relative;
     background: #B3D9D9;
     border-radius: 10px 10px 10px 10px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 /* Slides */
