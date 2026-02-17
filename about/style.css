@@ -5,10 +5,6 @@ html {
     font-size: 15px;
 }
 
-img {
-    opacity: 40%;
-} 
-
 div {
     word-wrap: normal: pretty;
     margin: 12px;
@@ -41,8 +37,8 @@ body {
     background-color: #3C565B;
     background-image: url("IMG_0433.JPG");
     background-position: center;
-    back-image-size: fill ;
     background-blend-mode: lighten;
+    background-size: cover;
 }
 
 header {
