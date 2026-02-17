@@ -37,7 +37,7 @@ body {
     background-color: rgba(60, 86, 91, 0.6);
     background-image: url("IMG_0433.JPG");
     background-position: center;
-    background-blend-mode:lighten;
+    background-blend-mode:luminosity;
     background-size: cover;
 }
 
