@@ -126,7 +126,12 @@ footer {
 
 /* Add an italic font style to all quotes */
 cite {
+    text-indent: -0.45em;
     font-style: italic;
-    margin-left: 300px;
-    margin-right: 300px;
+    padding: 300px;
   }
+cite::before {
+    content: open-quote;
+}
+cite::after {
+    content: close-quote;
