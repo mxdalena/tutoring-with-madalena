@@ -123,3 +123,6 @@ footer {
   top: 415px;
   background-color: #B3D9D9 
 }
+
+/* Add an italic font style to all quotes */
+q {font-style: italic;}
