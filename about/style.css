@@ -39,7 +39,8 @@ body {
     padding: 0;
     color: #464A46;
     /*background-color: #3C565B;*/
-    background-image: url("IMG_0433.JPG") 100%;
+    background-image: url("IMG_0433.JPG");
+    back-image-size: 100% ;
     background-image-opacity: 50%;
 }
 
