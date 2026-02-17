@@ -39,7 +39,7 @@ body {
     background-color: rgba(60, 86, 91, 1);
     background-image: url("IMG_0433.JPG");
     background-position: center;
-    background-size: cover;
+    /* background-size: cover;*/
     background-attachment: scroll;
 }
 
