@@ -46,7 +46,6 @@ body {
 }
 
 header {
-    position: absolute;
     background-color: #3C565B;
     text-decoration: none;
     color: #ffffff;
@@ -82,7 +81,7 @@ section {
 }
 
 footer {
-    position: absolute;
+    position: relative;
     text-align: center;
     padding: 10px;
     background-color: #3C565B;
