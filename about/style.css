@@ -37,7 +37,7 @@ body {
     background-color: #3C565B;
     background-image: url("IMG_0433.JPG");
     background-position: center;
-    background-blend-mode: luminosity;
+    background-blend-mode: luminosity, lighten;
     background-size: cover;
 }
 
