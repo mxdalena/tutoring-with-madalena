@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<script src="interactive.js"></script>
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madalena's Website</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+    
+<body  onload="showSlides(1)">
+    
+    <!-- HEADING -->  
+    <header>
+        <a href="https://mxdalena.github.io/tutoring-with-madalena/"><span style="color: #ffffff"><h1>1:1 Maths Tutoring with Madalena</h1></span></a> 
+    </header>
+
+<!-- SIDE BUTTONS -->  
+<div id="mySidenav" class="sidenav">
+    <center><a href="https://mxdalena.github.io/tutoring-with-madalena/" id="home" onclick="takeMeThere(1)">About Tutoring</a></center>
+    <center> <a href="#" id="testimonials" onclick="takeMeThere(2)">Testimonials</a></center>
+    <center></center><a href="#" id="cv" onclick="takeMeThere(3)">My Qualifications</a></center>
+    <center><a href="#" id="contact" onclick="takeMeThere(4)">Contact Me</a></center>
+</div>
+
+<!-- TESTIMONIALS -->  
+    <section id="Testimonials" background-color=#B3D9D9>
+        <center><h2>Testimonials</h2></center>
+        <!-- Slideshow container -->
+        <div class="slideshow-container">
+        
+          <!-- Full-width slides/quotes -->
+          <div class="mySlides">
+            <q>One of the most reliable, patient and friendly people I've ever met.</q>
+          </div>
+        
+          <div class="mySlides">
+            <q>Madalena is an experienced and highly skilled Maths tutor. She is a qualified mathematician and a very competent and empathetic teacher. I highly recommend Madalena as your Maths tutor.</q>
+          </div>
+        
+          <div class="mySlides">
+            <q>She has a natural ability for simplifying complex topics, making them easy to understand. With her guidance, you will definitely see significant improvements in your grades.</q>
+          </div>
+        
+        <div class="mySlides">
+            <q>She is patient and gentle, but also passionate and willing to help push you to do your best. She's very understanding, and is happy to get to know her students in order to find out what will work best.</q>
+          </div>
+        
+        <div class="mySlides">
+            <q>I have known Madalena for many years and have always been impressed by her dedication and academic excellence. Madalena is kind, patient, and genuinely committed to helping her students succeed. With several years of tutoring and positive feedback, she has proven herself to be both knowledgeable and reliable. She explains concepts clearly and creates a supportive learning environment. I highly recommend her as a trustworthy tutor.</q>
+          </div>
+
+       
+        
+          <!-- Next/prev buttons -->
+          <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+            <!-- Dots/bullets/indicators -->
+            <div class="dot-container">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
+                <span class="dot" onclick="currentSlide(3)"></span>
+                <span class="dot" onclick="currentSlide(4)"></span>
+                <span class="dot" onclick="currentSlide(5)"></span>
+            </div>
+        </div>
+        
+        
+    </section>
+
+
+<!-- FOOTER -->      
+    <footer>
+        <p>Contact me by <a href="mailto:madalena.ovar@gmail.com"><span style="color: #B3D9D9">email</span></a> or message me on <a href="https://wa.me/+447548645212/?text=I'm%20interested%20in%20your%20tutoring%20services."><span style="color: #B3D9D9">WhatsApp</span></a>.</p>
+    </footer>
+
+    
+</body>
+</html>
