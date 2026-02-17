@@ -80,6 +80,7 @@ section {
 }
 
 footer {
+    position: bottom;
     text-align: center;
     padding: 10px;
     background-color: #3C565B;
