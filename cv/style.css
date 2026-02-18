@@ -130,9 +130,7 @@ footer {
 
 /* Add an italic font style to all quotes */
 cite {
-    text-indent: -0.45em;
     font-style: italic;
-    padding: 300px;
   }
 cite:before {
     content: open-quote;
