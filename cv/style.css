@@ -73,8 +73,8 @@ section {
     margin-right: 0;
     margin-bottom: 10px;
     margin-left: 0;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -86,6 +86,7 @@ footer {
     background-color: #3C565B;
     color: #ffffff;
     text-decoration: none;
+    margin-top: 30px;
 }
 
 #mySidenav a {
@@ -130,6 +131,7 @@ footer {
 
 /* Add an italic font style to all quotes */
 cite {
+    text-indent: -200px;
     font-style: italic;
   }
 cite:before {
