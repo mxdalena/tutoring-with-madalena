@@ -183,4 +183,6 @@ option {
     color: #65919a;
 }
 
-
+select {
+    arrow-position: -5px ;
+}
