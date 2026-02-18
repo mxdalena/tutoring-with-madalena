@@ -118,6 +118,7 @@ footer {
 
 #mySidenav a {
     position: absolute; /* Position them relative to the browser window */
+    position-attachment: scroll;
     z-index: 1;
     left: -160px; /* Position them outside of the screen */
     transition: 0.5s; /* Add transition on hover */
