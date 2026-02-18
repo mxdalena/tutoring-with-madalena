@@ -134,6 +134,7 @@ cite {
     word-wrap: normal: pretty;
     text-indent: -210px;
     font-style: italic;
+    text-align: justify;
   }
 cite:before {
     content: open-quote;
