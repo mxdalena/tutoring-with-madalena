@@ -131,7 +131,7 @@ footer {
 
 /* Add an italic font style to all quotes */
 cite {
-    text-indent: -200px;
+    text-indent: -205px;
     font-style: italic;
   }
 cite:before {
