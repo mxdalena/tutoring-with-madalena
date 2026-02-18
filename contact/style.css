@@ -165,9 +165,11 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container {
     font-family: Merriweather;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #f2f2f2;
   padding: 20px;
+    margin-left:400px ;
+    margin-right: 400px;
 }
 
 option {
