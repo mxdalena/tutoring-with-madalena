@@ -137,7 +137,6 @@ footer {
 input[type=text], select, textarea {
     font-family: Merriweather;
     background-color: #deeded;
-    placeholder-color: #65919a;
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
   border: 1px solid #65919a; /* Gray border */
