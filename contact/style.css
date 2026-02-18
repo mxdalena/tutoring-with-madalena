@@ -182,6 +182,6 @@ option {
     color: #65919a;
 }
 
-select {
-    arrow-position: -5px ;
+select: picker-icon {
+    margin-right: 5px ;
 }
