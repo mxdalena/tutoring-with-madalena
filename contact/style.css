@@ -169,11 +169,12 @@ input[type=submit]:hover {
 .container {
     font-family: Merriweather;
     font-size: 15px;
-  border-radius: 10px;
-  background-color: #eef6f6;
-  padding: 20px;
+      border-radius: 10px;
+      background-color: #eef6f6;
+      padding: 20px;
     margin-left:400px ;
     margin-right: 400px;
+    color: #65919a;
 }
 
 option {
