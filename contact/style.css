@@ -73,7 +73,11 @@ section {
     margin-right: 0;
     margin-bottom: 10px;
     margin-left: 0;
-    padding: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 footer {
