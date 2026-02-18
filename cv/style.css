@@ -130,8 +130,8 @@ cite {
     font-style: italic;
     padding: 300px;
   }
-cite::before {
+cite:before {
     content: open-quote;
 }
-cite::after {
+cite:after {
     content: close-quote;
