@@ -136,6 +136,7 @@ footer {
 
 input[type=text], select, textarea {
     font-family: Merriweather;
+    background-color: #deeded;
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
   border: 1px solid #ccc; /* Gray border */
@@ -166,7 +167,7 @@ input[type=submit]:hover {
 .container {
     font-family: Merriweather;
   border-radius: 10px;
-  background-color: #f2f2f2;
+  background-color: #eef6f6;
   padding: 20px;
     margin-left:400px ;
     margin-right: 400px;
