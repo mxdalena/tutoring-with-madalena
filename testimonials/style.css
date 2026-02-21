@@ -140,7 +140,8 @@ footer {
 /* Slides */
 .mySlides {
   display: random;
-  padding: 100px;
+  padding-right: 100px;
+    padding-left: 100px;
   text-align: center;
     
 }
