@@ -135,7 +135,7 @@ footer {
 
 /* Add an italic font style to all quotes */
 cite {
-    word-wrap: normal: pretty;
+    word-wrap: normal;
     text-indent: -210px;
     font-style: italic;
     text-align: justify;
