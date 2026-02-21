@@ -38,6 +38,7 @@ body {
     background-image: url("IMG_0433.JPG");
     /*background-blend-mode:luminosity;*/
     background-size: cover;
+    background-position: center;
 }
 
 header {
