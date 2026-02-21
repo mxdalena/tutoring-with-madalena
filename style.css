@@ -169,8 +169,9 @@ footer {
 /* Slides */
 .mySlides {
   display: random;
-  padding: 170px;    
-  text-align: center;
+  padding-right: 130px;    
+    padding-left: 130px;  
+  text-align: justify center;
     
 }
 
