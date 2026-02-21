@@ -61,7 +61,7 @@ a {
 
 .grid {
     display: flex;
-    grid-column-gap: 10px;
+    grid-column-gap: 5px;
     grid-template-columns: repeat(3, 1fr);
 }
 
