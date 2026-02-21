@@ -39,6 +39,7 @@ body {
     /*background-blend-mode:luminosity;*/
     background-size: cover;
     background-position: center;
+    background-attachment: scroll;
 }
 
 header {
