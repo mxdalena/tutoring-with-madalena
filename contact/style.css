@@ -37,9 +37,8 @@ body {
     background-color: rgba(60, 86, 91, 1);
     background-image: url("IMG_0433.JPG");
     /*background-blend-mode:luminosity;*/
-    /*background-size: cover;*/
+    background-size: cover;
      background-position-x: center;
-    background-attachment: scroll;
 }
 
 header {
