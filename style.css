@@ -10,6 +10,7 @@ img {
 div {
     word-wrap: normal: pretty;
     margin: 5px;
+    text-align: justify;
 }
 
 p {
