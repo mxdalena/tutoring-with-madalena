@@ -69,6 +69,7 @@ a {
 }
 
 section {
+    text-align: justify;
     background-color: #eef6f6;
     color: #3C565B;
     margin-top: 10px;
